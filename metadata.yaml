@@ -1,0 +1,66 @@
+_repo: A-Short-History-of-the-World_35461
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wells, H. G. (Herbert George)
+    alias: Wells, Herbert George
+    birthdate: 1866
+    deathdate: 1946
+    gutenberg_agent_id: '30'
+    url: http://www.gutenberg.org/2009/agents/30
+    wikipedia: http://en.wikipedia.org/wiki/H._G._Wells
+description: Spanning the origins of the Earth to the outcome of the First World War,
+  this is a brilliantly compelling account of the evolution of life and the development
+  of the human race. Along the way, Wells considers diverse subjects, such as the
+  Neolithic era, the rise of Judaism, the Golden Age of Athens, the life of Christ,
+  the rise of Islam, the discovery of America and the Industrial Revolution. Breathtaking
+  in its scope and passionate in its intensity, this history remains one of the most
+  readable of its kind.
+gutenberg_issued: '2011-03-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35461'
+  lccn: '22021776'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World history'
+- !lcc 'D'
+tableOfContents: The world in space -- The world in time -- The beginnings of life
+  -- The age of fishes -- The age of the coal swamps -- The age of reptiles -- The
+  first birds and the first mammals -- The age of mammals -- Monkeys, apes and sub-men
+  -- The Neanderthaler and the Rhodesian Man -- The first true men -- Primitive thought
+  -- The beginnings of cultivation -- Primitive Neolithic civilizations -- Sumeria,
+  early Egypt and writing -- Primitive nomadic peoples -- The first sea-going peoples
+  -- Egypt, Babylon and Assyria -- The primitive Aryans -- The last Babylonian Empire
+  and the Empire of Darius I -- The early history of the Jews -- Priests and prophets
+  in Judea -- The Greeks -- The wars of the Greeks and Persians -- The splendour of
+  Greece -- The empire of Alexander the Great -- The Museum and Library at Alexandria
+  -- The life of Gautama Buddha -- King Asoka -- Confucius and Lao Tse -- Rome comes
+  into history -- Rome and Carthage -- The growth of the Roman Empire -- Between Rome
+  and China -- The common man's life under the early Roman Empire -- Religious developments
+  under the Roman Empire -- The teaching of Jesus -- The development of doctrinal
+  Christianity -- The barbarians break the Empire into East and West -- The Huns and
+  the end of the Western Empire -- The Byzantine and Sassanid Empires -- The dynasties
+  of Suy and Tang in China -- Muhammad and Islam -- The great days of the Arabs --
+  The development of Latin Christendom -- The Crusades and the age of papal dominion
+  -- Recalcitrant princes and the Great Schism -- The Mongol conquests -- The intellectual
+  revival of the Europeans -- The reformation of the Latin Church -- The Emperor Charles
+  V -- The age of political experiments; of grand monarchy and parliaments and republicanism
+  in Europe -- The new empires of the Europeans in Asia and overseas -- The American
+  War of Independence -- The French Revolution and the restoration of monarchy in
+  France -- The uneasy peace in Europe that followed the fall of Napoleon -- The development
+  of material knowledge -- The industrial revolution -- The development of modern
+  political and social ideas -- The expansion of the United States -- The rise of
+  Germany to predominance in Europe -- The new overseas empires of steamship and railway
+  -- European aggression in Asia, and the rise of Japan -- The British Empire in 1914
+  -- The age of armament in Europe, and the Great War of 1914-18 -- The revolution
+  and famine in Russia -- The political and social reconstruction of the world --
+  Chronological table.
+title: A Short History of the World
+url: http://www.gutenberg.org/ebooks/35461

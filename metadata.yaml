@@ -33,6 +33,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'World history'
 - !lcc 'D'
+- GITenberg
 tableOfContents: The world in space -- The world in time -- The beginnings of life
   -- The age of fishes -- The age of the coal swamps -- The age of reptiles -- The
   first birds and the first mammals -- The age of mammals -- Monkeys, apes and sub-men
